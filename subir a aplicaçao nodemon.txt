@@ -1,0 +1,8 @@
+nodemon .\src\index.ts
+
+
+ou 
+
+
+
+nodemon server  <-------------------------
